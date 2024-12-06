@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|c:\\users\\emre\\desktop\\c# derslerim\\polymorhismornek3\\bisiklet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|solutionrelative:bisiklet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|c:\\users\\emre\\desktop\\c# derslerim\\polymorhismornek3\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|solutionrelative:otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|c:\\users\\emre\\desktop\\c# derslerim\\polymorhismornek3\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|solutionrelative:arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|c:\\users\\emre\\desktop\\c# derslerim\\polymorhismornek3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F3D37B-2609-455D-952B-0A0721797565}|PolyMorhismOrnek3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bisiklet.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Bisiklet.cs",
+              "RelativeDocumentMoniker": "Bisiklet.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Bisiklet.cs",
+              "RelativeToolTip": "Bisiklet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:28:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Otomobil.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Otomobil.cs",
+              "RelativeDocumentMoniker": "Otomobil.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Otomobil.cs",
+              "RelativeToolTip": "Otomobil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:28:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Arac.cs",
+              "RelativeDocumentMoniker": "Arac.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Arac.cs",
+              "RelativeToolTip": "Arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:27:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\PolyMorhismOrnek3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:23:51.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

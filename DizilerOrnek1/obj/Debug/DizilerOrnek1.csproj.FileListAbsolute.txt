@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\bin\Debug\DizilerOrnek1.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\bin\Debug\DizilerOrnek1.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\bin\Debug\DizilerOrnek1.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\obj\Debug\DizilerOrnek1.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\obj\Debug\DizilerOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\obj\Debug\DizilerOrnek1.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizilerOrnek1\obj\Debug\DizilerOrnek1.pdb

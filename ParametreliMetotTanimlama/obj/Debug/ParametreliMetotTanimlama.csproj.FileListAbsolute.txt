@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\obj\Debug\ParametreliMetotTanimlama.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\obj\Debug\ParametreliMetotTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\bin\Debug\ParametreliMetotTanimlama.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\bin\Debug\ParametreliMetotTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\bin\Debug\ParametreliMetotTanimlama.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\obj\Debug\ParametreliMetotTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\ParametreliMetotTanimlama\obj\Debug\ParametreliMetotTanimlama.pdb

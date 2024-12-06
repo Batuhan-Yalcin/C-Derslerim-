@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\bin\Debug\GenericKoleksiyonKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\bin\Debug\GenericKoleksiyonKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\bin\Debug\GenericKoleksiyonKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\obj\Debug\GenericKoleksiyonKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\obj\Debug\GenericKoleksiyonKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\obj\Debug\GenericKoleksiyonKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\GenericKoleksiyonKullanimi\obj\Debug\GenericKoleksiyonKullanimi.pdb

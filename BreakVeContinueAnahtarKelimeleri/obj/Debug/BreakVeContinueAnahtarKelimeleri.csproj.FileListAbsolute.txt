@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\bin\Debug\BreakVeContinueAnahtarKelimeleri.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\BreakVeContinueAnahtarKelimeleri\obj\Debug\BreakVeContinueAnahtarKelimeleri.pdb

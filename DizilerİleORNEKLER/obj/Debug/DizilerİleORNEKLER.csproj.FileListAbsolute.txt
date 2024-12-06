@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\obj\Debug\DizilerİleORNEKLER.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\obj\Debug\DizilerİleORNEKLER.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\bin\Debug\DizilerİleORNEKLER.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\bin\Debug\DizilerİleORNEKLER.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\bin\Debug\DizilerİleORNEKLER.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\obj\Debug\DizilerİleORNEKLER.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizilerİleORNEKLER\obj\Debug\DizilerİleORNEKLER.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Kapsulleme\u0130leOrnek3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A3AAD4-53D7-46EB-895D-1B77D231CFEE}|Kapsulleme\u0130leOrnek3.csproj|c:\\users\\emre\\desktop\\c# derslerim\\kapsulleme\u0130leornek3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A3AAD4-53D7-46EB-895D-1B77D231CFEE}|Kapsulleme\u0130leOrnek3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Kapsulleme\u0130leOrnek3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Kapsulleme\u0130leOrnek3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:23:09.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

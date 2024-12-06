@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\bin\Debug\YapiciMetotKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\bin\Debug\YapiciMetotKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\bin\Debug\YapiciMetotKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\obj\Debug\YapiciMetotKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\obj\Debug\YapiciMetotKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\obj\Debug\YapiciMetotKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\YapiciMetotKullanimi\obj\Debug\YapiciMetotKullanimi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\bin\Debug\EsittirOperatöru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\bin\Debug\EsittirOperatöru.exe
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\bin\Debug\EsittirOperatöru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\obj\Debug\EsittirOperatöru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\obj\Debug\EsittirOperatöru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\obj\Debug\EsittirOperatöru.exe
+C:\Users\Emre\Desktop\C# Derslerim\EsittirOperatöru\obj\Debug\EsittirOperatöru.pdb

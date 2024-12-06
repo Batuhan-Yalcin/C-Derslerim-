@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\bin\Debug\MiniAtmUygulamasiİFELSE.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\bin\Debug\MiniAtmUygulamasiİFELSE.exe
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\bin\Debug\MiniAtmUygulamasiİFELSE.pdb
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\obj\Debug\MiniAtmUygulamasiİFELSE.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\obj\Debug\MiniAtmUygulamasiİFELSE.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\obj\Debug\MiniAtmUygulamasiİFELSE.exe
+C:\Users\Emre\Desktop\C# Derslerim\MiniAtmUygulamasiİFELSE\obj\Debug\MiniAtmUygulamasiİFELSE.pdb

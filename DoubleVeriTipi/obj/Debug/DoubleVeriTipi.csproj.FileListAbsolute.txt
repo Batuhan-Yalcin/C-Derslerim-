@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.pdb

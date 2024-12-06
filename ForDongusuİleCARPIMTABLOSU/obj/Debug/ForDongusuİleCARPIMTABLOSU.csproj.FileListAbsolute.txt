@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\bin\Debug\ForDongusuİleCARPIMTABLOSU.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\bin\Debug\ForDongusuİleCARPIMTABLOSU.exe
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\bin\Debug\ForDongusuİleCARPIMTABLOSU.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\obj\Debug\ForDongusuİleCARPIMTABLOSU.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\obj\Debug\ForDongusuİleCARPIMTABLOSU.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\obj\Debug\ForDongusuİleCARPIMTABLOSU.exe
+C:\Users\Emre\Desktop\C# Derslerim\ForDongusuİleCARPIMTABLOSU\obj\Debug\ForDongusuİleCARPIMTABLOSU.pdb

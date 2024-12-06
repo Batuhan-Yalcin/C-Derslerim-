@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\bin\Debug\ClassOlusturma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\bin\Debug\ClassOlusturma.exe
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\bin\Debug\ClassOlusturma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\obj\Debug\ClassOlusturma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\obj\Debug\ClassOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\obj\Debug\ClassOlusturma.exe
+C:\Users\Emre\Desktop\C# Derslerim\ClassOlusturma\obj\Debug\ClassOlusturma.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\bin\Debug\DoubleVeriTipiİLeDiziOlusturma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\bin\Debug\DoubleVeriTipiİLeDiziOlusturma.exe
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\bin\Debug\DoubleVeriTipiİLeDiziOlusturma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\obj\Debug\DoubleVeriTipiİLeDiziOlusturma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\obj\Debug\DoubleVeriTipiİLeDiziOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\obj\Debug\DoubleVeriTipiİLeDiziOlusturma.exe
+C:\Users\Emre\Desktop\C# Derslerim\DoubleVeriTipiİLeDiziOlusturma\obj\Debug\DoubleVeriTipiİLeDiziOlusturma.pdb

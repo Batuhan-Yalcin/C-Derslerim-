@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\obj\Debug\SesliAsistanYapmayaCalisicam.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\obj\Debug\SesliAsistanYapmayaCalisicam.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\bin\Debug\SesliAsistanYapmayaCalisicam.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\bin\Debug\SesliAsistanYapmayaCalisicam.exe
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\bin\Debug\SesliAsistanYapmayaCalisicam.pdb
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\obj\Debug\SesliAsistanYapmayaCalisicam.exe
+C:\Users\Emre\Desktop\C# Derslerim\SesliAsistanYapmayaCalisicam\obj\Debug\SesliAsistanYapmayaCalisicam.pdb

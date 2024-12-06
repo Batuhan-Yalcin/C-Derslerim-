@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|c:\\users\\emre\\desktop\\c# derslerim\\abstactclasslarinyapilari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|c:\\users\\emre\\desktop\\c# derslerim\\abstactclasslarinyapilari\\altsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|solutionrelative:altsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|c:\\users\\emre\\desktop\\c# derslerim\\abstactclasslarinyapilari\\temelsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015F6061-0822-4DA2-8DEF-B71D9CBE8B08}|AbstactClasslarinYapilari.csproj|solutionrelative:temelsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltSinif.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\AltSinif.cs",
+              "RelativeDocumentMoniker": "AltSinif.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\AltSinif.cs*",
+              "RelativeToolTip": "AltSinif.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:57:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemelSinif.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\TemelSinif.cs",
+              "RelativeDocumentMoniker": "TemelSinif.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\TemelSinif.cs*",
+              "RelativeToolTip": "TemelSinif.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:53:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\AbstactClasslarinYapilari\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:49:02.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\bin\Debug\BedenKitleİndexiBulma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\bin\Debug\BedenKitleİndexiBulma.exe
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\bin\Debug\BedenKitleİndexiBulma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\obj\Debug\BedenKitleİndexiBulma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\obj\Debug\BedenKitleİndexiBulma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\obj\Debug\BedenKitleİndexiBulma.exe
+C:\Users\Emre\Desktop\C# Derslerim\BedenKitleİndexiBulma\obj\Debug\BedenKitleİndexiBulma.pdb

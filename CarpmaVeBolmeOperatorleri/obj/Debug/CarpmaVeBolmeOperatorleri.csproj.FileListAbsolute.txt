@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\bin\Debug\CarpmaVeBolmeOperatorleri.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\bin\Debug\CarpmaVeBolmeOperatorleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\bin\Debug\CarpmaVeBolmeOperatorleri.pdb
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\obj\Debug\CarpmaVeBolmeOperatorleri.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\obj\Debug\CarpmaVeBolmeOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\obj\Debug\CarpmaVeBolmeOperatorleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\CarpmaVeBolmeOperatorleri\obj\Debug\CarpmaVeBolmeOperatorleri.pdb

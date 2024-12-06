@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\bin\Debug\KapsullemeİleOrnek.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\bin\Debug\KapsullemeİleOrnek.exe
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\bin\Debug\KapsullemeİleOrnek.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\obj\Debug\KapsullemeİleOrnek.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\obj\Debug\KapsullemeİleOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\obj\Debug\KapsullemeİleOrnek.exe
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeİleOrnek\obj\Debug\KapsullemeİleOrnek.pdb

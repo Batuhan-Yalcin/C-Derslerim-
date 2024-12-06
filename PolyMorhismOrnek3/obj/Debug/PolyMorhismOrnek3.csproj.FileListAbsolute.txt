@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\bin\Debug\PolyMorhismOrnek3.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\bin\Debug\PolyMorhismOrnek3.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\bin\Debug\PolyMorhismOrnek3.pdb
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\obj\Debug\PolyMorhismOrnek3.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\obj\Debug\PolyMorhismOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\obj\Debug\PolyMorhismOrnek3.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolyMorhismOrnek3\obj\Debug\PolyMorhismOrnek3.pdb

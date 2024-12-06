@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\obj\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\obj\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\bin\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\bin\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.exe
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\bin\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\obj\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.exe
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanAlinanSayilarUzerindeİslemYapma\obj\Debug\KullanicidanAlinanSayilarUzerindeİslemYapma.pdb

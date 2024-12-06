@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\bin\Debug\ForEachKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\bin\Debug\ForEachKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\bin\Debug\ForEachKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\obj\Debug\ForEachKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\obj\Debug\ForEachKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\obj\Debug\ForEachKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ForEachKullanimi\obj\Debug\ForEachKullanimi.pdb

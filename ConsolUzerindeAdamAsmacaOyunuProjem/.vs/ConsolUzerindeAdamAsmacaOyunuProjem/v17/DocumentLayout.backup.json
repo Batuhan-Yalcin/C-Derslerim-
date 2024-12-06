@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|c:\\users\\emre\\desktop\\c# derslerim\\consoluzerindeadamasmacaoyunuprojem\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|solutionrelative:oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|c:\\users\\emre\\desktop\\c# derslerim\\consoluzerindeadamasmacaoyunuprojem\\kelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|solutionrelative:kelime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|c:\\users\\emre\\desktop\\c# derslerim\\consoluzerindeadamasmacaoyunuprojem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719CD6E0-0B8A-404C-9240-C804478C3767}|ConsolUzerindeAdamAsmacaOyunuProjem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Oyun.cs",
+              "RelativeDocumentMoniker": "Oyun.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Oyun.cs",
+              "RelativeToolTip": "Oyun.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:18:01.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kelime.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Kelime.cs",
+              "RelativeDocumentMoniker": "Kelime.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Kelime.cs",
+              "RelativeToolTip": "Kelime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:17:12.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ConsolUzerindeAdamAsmacaOyunuProjem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:16:44.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

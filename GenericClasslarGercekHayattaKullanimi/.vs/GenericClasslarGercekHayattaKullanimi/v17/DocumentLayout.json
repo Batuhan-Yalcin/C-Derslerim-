@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\genericclasslargercekhayattakullanimi\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|solutionrelative:urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\genericclasslargercekhayattakullanimi\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|solutionrelative:repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\genericclasslargercekhayattakullanimi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|solutionrelative:musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\genericclasslargercekhayattakullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF503A92-DEB2-4C80-B923-D51CDFE94AF5}|GenericClasslarGercekHayattaKullanimi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Urun.cs",
+              "RelativeDocumentMoniker": "Urun.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Urun.cs",
+              "RelativeToolTip": "Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:08:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Repository.cs",
+              "RelativeToolTip": "Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:02:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Musteri.cs",
+              "RelativeDocumentMoniker": "Musteri.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Musteri.cs",
+              "RelativeToolTip": "Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:00:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\GenericClasslarGercekHayattaKullanimi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:00:14.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

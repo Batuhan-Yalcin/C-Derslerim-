@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\bin\Debug\BooleanVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\bin\Debug\BooleanVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\bin\Debug\BooleanVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\obj\Debug\BooleanVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\obj\Debug\BooleanVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\obj\Debug\BooleanVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\BooleanVeriTipi\obj\Debug\BooleanVeriTipi.pdb

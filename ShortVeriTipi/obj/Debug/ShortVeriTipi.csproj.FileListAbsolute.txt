@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\bin\Debug\ShortVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\bin\Debug\ShortVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\bin\Debug\ShortVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\obj\Debug\ShortVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\obj\Debug\ShortVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\obj\Debug\ShortVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ShortVeriTipi\obj\Debug\ShortVeriTipi.pdb

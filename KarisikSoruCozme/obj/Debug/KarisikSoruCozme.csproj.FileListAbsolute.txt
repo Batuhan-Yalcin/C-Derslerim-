@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\bin\Debug\KarisikSoruCozme.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\bin\Debug\KarisikSoruCozme.exe
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\bin\Debug\KarisikSoruCozme.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\obj\Debug\KarisikSoruCozme.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\obj\Debug\KarisikSoruCozme.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\obj\Debug\KarisikSoruCozme.exe
+C:\Users\Emre\Desktop\C# Derslerim\KarisikSoruCozme\obj\Debug\KarisikSoruCozme.pdb

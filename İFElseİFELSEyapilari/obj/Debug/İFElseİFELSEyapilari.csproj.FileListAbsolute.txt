@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\bin\Debug\İFElseİFELSEyapilari.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\bin\Debug\İFElseİFELSEyapilari.exe
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\bin\Debug\İFElseİFELSEyapilari.pdb
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\obj\Debug\İFElseİFELSEyapilari.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\obj\Debug\İFElseİFELSEyapilari.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\obj\Debug\İFElseİFELSEyapilari.exe
+C:\Users\Emre\Desktop\C# Derslerim\İFElseİFELSEyapilari\obj\Debug\İFElseİFELSEyapilari.pdb

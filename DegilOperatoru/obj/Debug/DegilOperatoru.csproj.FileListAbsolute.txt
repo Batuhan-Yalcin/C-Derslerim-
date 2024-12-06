@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\bin\Debug\DegilOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\bin\Debug\DegilOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\bin\Debug\DegilOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\obj\Debug\DegilOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\obj\Debug\DegilOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\obj\Debug\DegilOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\DegilOperatoru\obj\Debug\DegilOperatoru.pdb

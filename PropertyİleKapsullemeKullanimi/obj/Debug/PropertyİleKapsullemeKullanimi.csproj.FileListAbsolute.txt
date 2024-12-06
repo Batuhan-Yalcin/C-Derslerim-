@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\bin\Debug\PropertyİleKapsullemeKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\bin\Debug\PropertyİleKapsullemeKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\bin\Debug\PropertyİleKapsullemeKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\obj\Debug\PropertyİleKapsullemeKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\obj\Debug\PropertyİleKapsullemeKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\obj\Debug\PropertyİleKapsullemeKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\PropertyİleKapsullemeKullanimi\obj\Debug\PropertyİleKapsullemeKullanimi.pdb

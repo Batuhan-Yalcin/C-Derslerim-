@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\inheritancesealedanahtarkelimesininonemi\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|solutionrelative:musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\inheritancesealedanahtarkelimesininonemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\inheritancesealedanahtarkelimesininonemi\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286DB5FB-95F0-4480-B9C0-2A198264A4F6}|InheritanceSealedAnahtarKelimesininOnemi.csproj|solutionrelative:personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Personel.cs",
+              "RelativeDocumentMoniker": "Personel.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Personel.cs",
+              "RelativeToolTip": "Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:12:04.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Musteri.cs",
+              "RelativeDocumentMoniker": "Musteri.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Musteri.cs",
+              "RelativeToolTip": "Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:11:55.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\InheritanceSealedAnahtarKelimesininOnemi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:11:05.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

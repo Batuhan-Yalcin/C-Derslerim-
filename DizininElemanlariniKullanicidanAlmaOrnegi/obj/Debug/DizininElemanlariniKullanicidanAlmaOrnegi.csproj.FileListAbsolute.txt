@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\bin\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\bin\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\bin\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\obj\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\obj\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\obj\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DizininElemanlariniKullanicidanAlmaOrnegi\obj\Debug\DizininElemanlariniKullanicidanAlmaOrnegi.pdb

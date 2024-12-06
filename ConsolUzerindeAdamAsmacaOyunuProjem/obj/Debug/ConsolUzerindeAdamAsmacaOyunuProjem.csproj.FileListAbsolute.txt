@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\bin\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\bin\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.exe
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\bin\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\obj\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\obj\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\obj\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.exe
+C:\Users\Emre\Desktop\C# Derslerim\ConsolUzerindeAdamAsmacaOyunuProjem\obj\Debug\ConsolUzerindeAdamAsmacaOyunuProjem.pdb

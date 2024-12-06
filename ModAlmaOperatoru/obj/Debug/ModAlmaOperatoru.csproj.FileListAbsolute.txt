@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.pdb

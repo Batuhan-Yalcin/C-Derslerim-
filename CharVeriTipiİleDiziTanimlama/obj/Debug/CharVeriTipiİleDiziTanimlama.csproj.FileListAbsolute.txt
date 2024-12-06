@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\bin\Debug\CharVeriTipiİleDiziTanimlama.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\bin\Debug\CharVeriTipiİleDiziTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\bin\Debug\CharVeriTipiİleDiziTanimlama.pdb
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\obj\Debug\CharVeriTipiİleDiziTanimlama.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\obj\Debug\CharVeriTipiİleDiziTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\obj\Debug\CharVeriTipiİleDiziTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipiİleDiziTanimlama\obj\Debug\CharVeriTipiİleDiziTanimlama.pdb

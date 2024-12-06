@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\bin\Debug\ToplamaVeCikarmaOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\bin\Debug\ToplamaVeCikarmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\bin\Debug\ToplamaVeCikarmaOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\obj\Debug\ToplamaVeCikarmaOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\obj\Debug\ToplamaVeCikarmaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\obj\Debug\ToplamaVeCikarmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ToplamaVeCikarmaOperatoru\obj\Debug\ToplamaVeCikarmaOperatoru.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\obj\Debug\SwitchCaseİleMiniAtmÖrneği.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\obj\Debug\SwitchCaseİleMiniAtmÖrneği.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\bin\Debug\SwitchCaseİleMiniAtmÖrneği.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\bin\Debug\SwitchCaseİleMiniAtmÖrneği.exe
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\bin\Debug\SwitchCaseİleMiniAtmÖrneği.pdb
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\obj\Debug\SwitchCaseİleMiniAtmÖrneği.exe
+C:\Users\Emre\Desktop\C# Derslerim\SwitchCaseİleMiniAtmÖrneği\obj\Debug\SwitchCaseİleMiniAtmÖrneği.pdb

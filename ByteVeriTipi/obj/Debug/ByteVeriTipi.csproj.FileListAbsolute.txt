@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\bin\Debug\ByteVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\bin\Debug\ByteVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\bin\Debug\ByteVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\obj\Debug\ByteVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\obj\Debug\ByteVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\obj\Debug\ByteVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ByteVeriTipi\obj\Debug\ByteVeriTipi.pdb

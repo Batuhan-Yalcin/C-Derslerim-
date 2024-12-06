@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\bin\Debug\InheritanceMirasAlma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\bin\Debug\InheritanceMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\bin\Debug\InheritanceMirasAlma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\obj\Debug\InheritanceMirasAlma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\obj\Debug\InheritanceMirasAlma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\obj\Debug\InheritanceMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceMirasAlma\obj\Debug\InheritanceMirasAlma.pdb

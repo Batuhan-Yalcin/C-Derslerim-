@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\bin\Debug\ClasslarlaOgrenciUygulamasi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\bin\Debug\ClasslarlaOgrenciUygulamasi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\bin\Debug\ClasslarlaOgrenciUygulamasi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\obj\Debug\ClasslarlaOgrenciUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\obj\Debug\ClasslarlaOgrenciUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\obj\Debug\ClasslarlaOgrenciUygulamasi.exe
+C:\Users\Emre\Desktop\C# Derslerim\ClasslarlaOgrenciUygulamasi\obj\Debug\ClasslarlaOgrenciUygulamasi.pdb

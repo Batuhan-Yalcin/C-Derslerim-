@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\bin\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\bin\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\bin\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\obj\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\obj\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\obj\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\ProtectedErisimBelirleyicisiİleMirasAlma\obj\Debug\ProtectedErisimBelirleyicisiİleMirasAlma.pdb

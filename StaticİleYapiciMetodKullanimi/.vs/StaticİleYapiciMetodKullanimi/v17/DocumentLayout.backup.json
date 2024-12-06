@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Static\u0130leYapiciMetodKullanimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04E1875-F47B-4959-A5A7-A7B3ABC72C1D}|Static\u0130leYapiciMetodKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\static\u0130leyapicimetodkullanimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04E1875-F47B-4959-A5A7-A7B3ABC72C1D}|Static\u0130leYapiciMetodKullanimi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04E1875-F47B-4959-A5A7-A7B3ABC72C1D}|Static\u0130leYapiciMetodKullanimi.csproj|c:\\users\\emre\\desktop\\c# derslerim\\static\u0130leyapicimetodkullanimi\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04E1875-F47B-4959-A5A7-A7B3ABC72C1D}|Static\u0130leYapiciMetodKullanimi.csproj|solutionrelative:kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Static\u0130leYapiciMetodKullanimi\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Kullanici.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Static\u0130leYapiciMetodKullanimi\\Kullanici.cs",
+              "RelativeToolTip": "Kullanici.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:20:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Static\u0130leYapiciMetodKullanimi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\Static\u0130leYapiciMetodKullanimi\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:20:01.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\bin\Debug\StringVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\bin\Debug\StringVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\bin\Debug\StringVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\obj\Debug\StringVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\obj\Debug\StringVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\obj\Debug\StringVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StringVeriTipi\obj\Debug\StringVeriTipi.pdb

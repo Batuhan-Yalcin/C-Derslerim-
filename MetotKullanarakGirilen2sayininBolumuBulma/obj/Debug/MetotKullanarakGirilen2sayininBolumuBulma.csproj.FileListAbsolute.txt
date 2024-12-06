@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\bin\Debug\MetotKullanarakGirilen2sayininBolumuBulma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\bin\Debug\MetotKullanarakGirilen2sayininBolumuBulma.exe
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\bin\Debug\MetotKullanarakGirilen2sayininBolumuBulma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\obj\Debug\MetotKullanarakGirilen2sayininBolumuBulma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\obj\Debug\MetotKullanarakGirilen2sayininBolumuBulma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\obj\Debug\MetotKullanarakGirilen2sayininBolumuBulma.exe
+C:\Users\Emre\Desktop\C# Derslerim\MetotKullanarakGirilen2sayininBolumuBulma\obj\Debug\MetotKullanarakGirilen2sayininBolumuBulma.pdb

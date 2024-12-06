@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ErisimBelirleyicileriPUBL\u0130C-PR\u0130VATE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36BE3EB3-B744-4B70-A582-B163965A973C}|ErisimBelirleyicileriPUBL\u0130C-PR\u0130VATE.csproj|c:\\users\\emre\\desktop\\c# derslerim\\erisimbelirleyicileripubl\u0130c-pr\u0130vate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BE3EB3-B744-4B70-A582-B163965A973C}|ErisimBelirleyicileriPUBL\u0130C-PR\u0130VATE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ErisimBelirleyicileriPUBL\u0130C-PR\u0130VATE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\C# Derslerim\\ErisimBelirleyicileriPUBL\u0130C-PR\u0130VATE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:56:07.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\bin\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\bin\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\bin\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\obj\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\obj\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\obj\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.exe
+C:\Users\Emre\Desktop\C# Derslerim\ReturnİleGeriyeDegerDondurenMetotTanimlama\obj\Debug\ReturnİleGeriyeDegerDondurenMetotTanimlama.pdb

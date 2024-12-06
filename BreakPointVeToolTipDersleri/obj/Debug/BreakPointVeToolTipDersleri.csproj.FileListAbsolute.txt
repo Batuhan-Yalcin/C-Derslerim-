@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\bin\Debug\BreakPointVeToolTipDersleri.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\bin\Debug\BreakPointVeToolTipDersleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\bin\Debug\BreakPointVeToolTipDersleri.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\obj\Debug\BreakPointVeToolTipDersleri.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\obj\Debug\BreakPointVeToolTipDersleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\obj\Debug\BreakPointVeToolTipDersleri.exe
+C:\Users\Emre\Desktop\C# Derslerim\BreakPointVeToolTipDersleri\obj\Debug\BreakPointVeToolTipDersleri.pdb

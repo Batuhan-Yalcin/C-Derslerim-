@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\obj\Debug\InterFaceOrnek3.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\obj\Debug\InterFaceOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\bin\Debug\InterFaceOrnek3.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\bin\Debug\InterFaceOrnek3.exe
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\bin\Debug\InterFaceOrnek3.pdb
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\obj\Debug\InterFaceOrnek3.exe
+C:\Users\Emre\Desktop\C# Derslerim\InterFaceOrnek3\obj\Debug\InterFaceOrnek3.pdb

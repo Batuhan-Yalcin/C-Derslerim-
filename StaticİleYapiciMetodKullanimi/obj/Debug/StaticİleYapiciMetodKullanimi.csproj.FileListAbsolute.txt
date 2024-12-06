@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\bin\Debug\StaticİleYapiciMetodKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\bin\Debug\StaticİleYapiciMetodKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\bin\Debug\StaticİleYapiciMetodKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\obj\Debug\StaticİleYapiciMetodKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\obj\Debug\StaticİleYapiciMetodKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\obj\Debug\StaticİleYapiciMetodKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleYapiciMetodKullanimi\obj\Debug\StaticİleYapiciMetodKullanimi.pdb

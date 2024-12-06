@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\obj\Debug\VeOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\obj\Debug\VeOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\bin\Debug\VeOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\bin\Debug\VeOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\bin\Debug\VeOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\obj\Debug\VeOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\VeOperatoru\obj\Debug\VeOperatoru.pdb

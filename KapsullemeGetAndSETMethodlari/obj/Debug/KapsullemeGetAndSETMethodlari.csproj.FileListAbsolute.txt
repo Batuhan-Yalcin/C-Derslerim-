@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\bin\Debug\KapsullemeGetAndSETMethodlari.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\bin\Debug\KapsullemeGetAndSETMethodlari.exe
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\bin\Debug\KapsullemeGetAndSETMethodlari.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\obj\Debug\KapsullemeGetAndSETMethodlari.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\obj\Debug\KapsullemeGetAndSETMethodlari.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\obj\Debug\KapsullemeGetAndSETMethodlari.exe
+C:\Users\Emre\Desktop\C# Derslerim\KapsullemeGetAndSETMethodlari\obj\Debug\KapsullemeGetAndSETMethodlari.pdb

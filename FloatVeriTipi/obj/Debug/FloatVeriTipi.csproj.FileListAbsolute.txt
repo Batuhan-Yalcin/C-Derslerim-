@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\bin\Debug\FloatVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\bin\Debug\FloatVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\bin\Debug\FloatVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\obj\Debug\FloatVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\obj\Debug\FloatVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\obj\Debug\FloatVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\FloatVeriTipi\obj\Debug\FloatVeriTipi.pdb

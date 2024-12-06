@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\bin\Debug\ArttirmaVeAzaltmaOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\bin\Debug\ArttirmaVeAzaltmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\bin\Debug\ArttirmaVeAzaltmaOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\obj\Debug\ArttirmaVeAzaltmaOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\obj\Debug\ArttirmaVeAzaltmaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\obj\Debug\ArttirmaVeAzaltmaOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\ArttirmaVeAzaltmaOperatoru\obj\Debug\ArttirmaVeAzaltmaOperatoru.pdb

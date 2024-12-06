@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\bin\Debug\BuyukturVeBuyukEsitOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\bin\Debug\BuyukturVeBuyukEsitOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\bin\Debug\BuyukturVeBuyukEsitOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\obj\Debug\BuyukturVeBuyukEsitOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\obj\Debug\BuyukturVeBuyukEsitOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\obj\Debug\BuyukturVeBuyukEsitOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\BuyukturVeBuyukEsitOperatoru\obj\Debug\BuyukturVeBuyukEsitOperatoru.pdb

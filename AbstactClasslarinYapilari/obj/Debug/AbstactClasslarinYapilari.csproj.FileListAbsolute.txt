@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\bin\Debug\AbstactClasslarinYapilari.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\bin\Debug\AbstactClasslarinYapilari.exe
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\bin\Debug\AbstactClasslarinYapilari.pdb
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\obj\Debug\AbstactClasslarinYapilari.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\obj\Debug\AbstactClasslarinYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\obj\Debug\AbstactClasslarinYapilari.exe
+C:\Users\Emre\Desktop\C# Derslerim\AbstactClasslarinYapilari\obj\Debug\AbstactClasslarinYapilari.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\obj\Debug\BirdenFazlaClassiMirasAlma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\obj\Debug\BirdenFazlaClassiMirasAlma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\bin\Debug\BirdenFazlaClassiMirasAlma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\bin\Debug\BirdenFazlaClassiMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\bin\Debug\BirdenFazlaClassiMirasAlma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\obj\Debug\BirdenFazlaClassiMirasAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\BirdenFazlaClassiMirasAlma\obj\Debug\BirdenFazlaClassiMirasAlma.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\bin\Debug\İntVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\bin\Debug\İntVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\bin\Debug\İntVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\obj\Debug\İntVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\obj\Debug\İntVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\obj\Debug\İntVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\İntVeriTipi\obj\Debug\İntVeriTipi.pdb

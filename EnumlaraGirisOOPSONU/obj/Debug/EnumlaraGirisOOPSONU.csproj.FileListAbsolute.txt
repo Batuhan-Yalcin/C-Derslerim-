@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\bin\Debug\EnumlaraGirisOOPSONU.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\bin\Debug\EnumlaraGirisOOPSONU.exe
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\bin\Debug\EnumlaraGirisOOPSONU.pdb
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\obj\Debug\EnumlaraGirisOOPSONU.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\obj\Debug\EnumlaraGirisOOPSONU.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\obj\Debug\EnumlaraGirisOOPSONU.exe
+C:\Users\Emre\Desktop\C# Derslerim\EnumlaraGirisOOPSONU\obj\Debug\EnumlaraGirisOOPSONU.pdb

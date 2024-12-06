@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\bin\Debug\PolymorphismGirisOOP.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\bin\Debug\PolymorphismGirisOOP.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\bin\Debug\PolymorphismGirisOOP.pdb
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\obj\Debug\PolymorphismGirisOOP.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\obj\Debug\PolymorphismGirisOOP.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\obj\Debug\PolymorphismGirisOOP.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphismGirisOOP\obj\Debug\PolymorphismGirisOOP.pdb

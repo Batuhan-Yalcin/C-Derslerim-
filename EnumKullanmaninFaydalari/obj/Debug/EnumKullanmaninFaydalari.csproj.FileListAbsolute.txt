@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\bin\Debug\EnumKullanmaninFaydalari.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\bin\Debug\EnumKullanmaninFaydalari.exe
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\bin\Debug\EnumKullanmaninFaydalari.pdb
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\obj\Debug\EnumKullanmaninFaydalari.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\obj\Debug\EnumKullanmaninFaydalari.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\obj\Debug\EnumKullanmaninFaydalari.exe
+C:\Users\Emre\Desktop\C# Derslerim\EnumKullanmaninFaydalari\obj\Debug\EnumKullanmaninFaydalari.pdb

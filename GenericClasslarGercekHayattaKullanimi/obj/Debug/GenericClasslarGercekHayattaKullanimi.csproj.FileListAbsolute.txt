@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\bin\Debug\GenericClasslarGercekHayattaKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\bin\Debug\GenericClasslarGercekHayattaKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\bin\Debug\GenericClasslarGercekHayattaKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\obj\Debug\GenericClasslarGercekHayattaKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\obj\Debug\GenericClasslarGercekHayattaKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\obj\Debug\GenericClasslarGercekHayattaKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\GenericClasslarGercekHayattaKullanimi\obj\Debug\GenericClasslarGercekHayattaKullanimi.pdb

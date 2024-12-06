@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\bin\Debug\KullanicidanSayisalDegerAlma.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\bin\Debug\KullanicidanSayisalDegerAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\bin\Debug\KullanicidanSayisalDegerAlma.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\obj\Debug\KullanicidanSayisalDegerAlma.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\obj\Debug\KullanicidanSayisalDegerAlma.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\obj\Debug\KullanicidanSayisalDegerAlma.exe
+C:\Users\Emre\Desktop\C# Derslerim\KullanicidanSayisalDegerAlma\obj\Debug\KullanicidanSayisalDegerAlma.pdb

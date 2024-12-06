@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\bin\Debug\WhileDongusuİleOrnekler.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\bin\Debug\WhileDongusuİleOrnekler.exe
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\bin\Debug\WhileDongusuİleOrnekler.pdb
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\obj\Debug\WhileDongusuİleOrnekler.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\obj\Debug\WhileDongusuİleOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\obj\Debug\WhileDongusuİleOrnekler.exe
+C:\Users\Emre\Desktop\C# Derslerim\WhileDongusuİleOrnekler\obj\Debug\WhileDongusuİleOrnekler.pdb

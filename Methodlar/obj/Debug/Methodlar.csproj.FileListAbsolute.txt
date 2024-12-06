@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\bin\Debug\Methodlar.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\bin\Debug\Methodlar.exe
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\bin\Debug\Methodlar.pdb
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\obj\Debug\Methodlar.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\obj\Debug\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\obj\Debug\Methodlar.exe
+C:\Users\Emre\Desktop\C# Derslerim\Methodlar\obj\Debug\Methodlar.pdb

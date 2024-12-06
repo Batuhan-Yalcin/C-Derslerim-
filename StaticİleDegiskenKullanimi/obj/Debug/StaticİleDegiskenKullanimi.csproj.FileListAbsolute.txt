@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\bin\Debug\StaticİleDegiskenKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\bin\Debug\StaticİleDegiskenKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\bin\Debug\StaticİleDegiskenKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\obj\Debug\StaticİleDegiskenKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\obj\Debug\StaticİleDegiskenKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\obj\Debug\StaticİleDegiskenKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\StaticİleDegiskenKullanimi\obj\Debug\StaticİleDegiskenKullanimi.pdb

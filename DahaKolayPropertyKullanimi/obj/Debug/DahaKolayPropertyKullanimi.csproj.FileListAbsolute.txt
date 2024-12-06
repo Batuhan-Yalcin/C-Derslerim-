@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\bin\Debug\DahaKolayPropertyKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\bin\Debug\DahaKolayPropertyKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\bin\Debug\DahaKolayPropertyKullanimi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\obj\Debug\DahaKolayPropertyKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\obj\Debug\DahaKolayPropertyKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\obj\Debug\DahaKolayPropertyKullanimi.exe
+C:\Users\Emre\Desktop\C# Derslerim\DahaKolayPropertyKullanimi\obj\Debug\DahaKolayPropertyKullanimi.pdb

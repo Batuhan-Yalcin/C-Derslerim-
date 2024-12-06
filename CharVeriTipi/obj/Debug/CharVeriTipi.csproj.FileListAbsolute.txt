@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\bin\Debug\CharVeriTipi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\bin\Debug\CharVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\bin\Debug\CharVeriTipi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\obj\Debug\CharVeriTipi.exe
+C:\Users\Emre\Desktop\C# Derslerim\CharVeriTipi\obj\Debug\CharVeriTipi.pdb

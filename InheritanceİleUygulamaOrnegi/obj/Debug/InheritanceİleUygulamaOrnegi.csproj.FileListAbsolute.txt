@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\bin\Debug\InheritanceİleUygulamaOrnegi.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\bin\Debug\InheritanceİleUygulamaOrnegi.exe
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\bin\Debug\InheritanceİleUygulamaOrnegi.pdb
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\obj\Debug\InheritanceİleUygulamaOrnegi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\obj\Debug\InheritanceİleUygulamaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\obj\Debug\InheritanceİleUygulamaOrnegi.exe
+C:\Users\Emre\Desktop\C# Derslerim\InheritanceİleUygulamaOrnegi\obj\Debug\InheritanceİleUygulamaOrnegi.pdb

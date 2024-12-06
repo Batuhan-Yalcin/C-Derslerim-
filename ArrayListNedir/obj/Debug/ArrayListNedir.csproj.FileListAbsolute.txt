@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\bin\Debug\ArrayListNedir.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\bin\Debug\ArrayListNedir.exe
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\bin\Debug\ArrayListNedir.pdb
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\obj\Debug\ArrayListNedir.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\obj\Debug\ArrayListNedir.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\obj\Debug\ArrayListNedir.exe
+C:\Users\Emre\Desktop\C# Derslerim\ArrayListNedir\obj\Debug\ArrayListNedir.pdb

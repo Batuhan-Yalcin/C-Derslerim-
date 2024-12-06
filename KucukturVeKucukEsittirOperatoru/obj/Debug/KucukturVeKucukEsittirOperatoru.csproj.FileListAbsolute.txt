@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\bin\Debug\KucukturVeKucukEsittirOperatoru.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\bin\Debug\KucukturVeKucukEsittirOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\bin\Debug\KucukturVeKucukEsittirOperatoru.pdb
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\obj\Debug\KucukturVeKucukEsittirOperatoru.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\obj\Debug\KucukturVeKucukEsittirOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\obj\Debug\KucukturVeKucukEsittirOperatoru.exe
+C:\Users\Emre\Desktop\C# Derslerim\KucukturVeKucukEsittirOperatoru\obj\Debug\KucukturVeKucukEsittirOperatoru.pdb

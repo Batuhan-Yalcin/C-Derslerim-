@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\bin\Debug\AbstractClassVeİnterfaceFarki.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\bin\Debug\AbstractClassVeİnterfaceFarki.exe
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\bin\Debug\AbstractClassVeİnterfaceFarki.pdb
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\obj\Debug\AbstractClassVeİnterfaceFarki.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\obj\Debug\AbstractClassVeİnterfaceFarki.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\obj\Debug\AbstractClassVeİnterfaceFarki.exe
+C:\Users\Emre\Desktop\C# Derslerim\AbstractClassVeİnterfaceFarki\obj\Debug\AbstractClassVeİnterfaceFarki.pdb
