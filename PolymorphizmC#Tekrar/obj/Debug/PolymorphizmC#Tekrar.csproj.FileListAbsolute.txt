@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\bin\Debug\PolymorphizmC#Tekrar.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\bin\Debug\PolymorphizmC#Tekrar.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\bin\Debug\PolymorphizmC#Tekrar.pdb
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\obj\Debug\PolymorphizmC#Tekrar.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\obj\Debug\PolymorphizmC#Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\obj\Debug\PolymorphizmC#Tekrar.exe
+C:\Users\Emre\Desktop\C# Derslerim\PolymorphizmC#Tekrar\obj\Debug\PolymorphizmC#Tekrar.pdb

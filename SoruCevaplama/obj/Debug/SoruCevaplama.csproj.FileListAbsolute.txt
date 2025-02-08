@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\bin\Debug\SoruCevaplama.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\bin\Debug\SoruCevaplama.exe
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\bin\Debug\SoruCevaplama.pdb
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\obj\Debug\SoruCevaplama.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\obj\Debug\SoruCevaplama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\obj\Debug\SoruCevaplama.exe
+C:\Users\Emre\Desktop\C# Derslerim\SoruCevaplama\obj\Debug\SoruCevaplama.pdb

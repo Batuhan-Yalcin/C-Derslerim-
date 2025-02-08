@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\bin\Debug\BireBirDers.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\bin\Debug\BireBirDers.exe
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\bin\Debug\BireBirDers.pdb
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\obj\Debug\BireBirDers.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\obj\Debug\BireBirDers.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\obj\Debug\BireBirDers.exe
+C:\Users\Emre\Desktop\C# Derslerim\BireBirDers\obj\Debug\BireBirDers.pdb

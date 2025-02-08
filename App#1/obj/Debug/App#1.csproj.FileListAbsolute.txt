@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Derslerim\App#1\bin\Debug\App#1.exe.config
+C:\Users\Emre\Desktop\C# Derslerim\App#1\bin\Debug\App#1.exe
+C:\Users\Emre\Desktop\C# Derslerim\App#1\bin\Debug\App#1.pdb
+C:\Users\Emre\Desktop\C# Derslerim\App#1\obj\Debug\App#1.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Derslerim\App#1\obj\Debug\App#1.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Derslerim\App#1\obj\Debug\App#1.exe
+C:\Users\Emre\Desktop\C# Derslerim\App#1\obj\Debug\App#1.pdb
